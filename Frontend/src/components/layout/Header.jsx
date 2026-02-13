@@ -14,7 +14,7 @@ const navLinks = [
 
 
 return (
-    <Div></Div>
+    <div></div>
 )
 
 export default Header;
